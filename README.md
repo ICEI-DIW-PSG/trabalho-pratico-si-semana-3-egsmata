@@ -10,10 +10,10 @@ Nessa atividade, você deverá montar a página inicial do projeto escolhido, a 
 
 ## Informações Gerais
 
-- Nome:
-- Matricula:
-- Proposta de projeto escolhida:
-- Breve descrição sobre seu projeto:
+- Nome: Enrico Guilherme Silva da Mata
+- Matricula: 902513
+- Proposta de projeto escolhida: Lugares e Experiências
+- Breve descrição sobre seu projeto: Protótipo de blog que exibe informações de cidades de capitais de estados do Brasil.
 
 
 ## Print do(s) wireframe(s) criado
